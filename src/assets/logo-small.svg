@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38" height="42.667" viewBox="0 0 38 42.667">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#6b7c97"/>
+      <stop offset="1" stop-color="#3c4d67"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#3c4d67"/>
+      <stop offset="1" stop-color="#6b7c97"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#57a0ad"/>
+      <stop offset="1" stop-color="#467a85"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-4" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#467a85"/>
+      <stop offset="1" stop-color="#6aaebb"/>
+    </linearGradient>
+  </defs>
+  <g id="logo-small" transform="translate(969.431 35.848)">
+    <g id="Group_374" data-name="Group 374" transform="translate(-969.431 -35.848)">
+      <path id="Subtraction_3" data-name="Subtraction 3" d="M-950.468,6.82a4.018,4.018,0,0,1-.91-.1,2.96,2.96,0,0,1-.8-.308l-15.53-8.985a2.957,2.957,0,0,1-.67-.544,4.137,4.137,0,0,1-.916-1.589,2.949,2.949,0,0,1-.135-.853V-23.539a2.948,2.948,0,0,1,.136-.852,4.113,4.113,0,0,1,.919-1.585,2.955,2.955,0,0,1,.672-.541l15.584-8.922a3.5,3.5,0,0,1,1.664-.408V6.819h-.012Z" transform="translate(969.431 35.847)" fill="url(#linear-gradient)"/>
+      <path id="Subtraction_4" data-name="Subtraction 4" d="M-899.963,6.819h-.06V-35.847h.113a4.059,4.059,0,0,1,.917.1,2.97,2.97,0,0,1,.806.309l15.465,8.912a2.958,2.958,0,0,1,.671.543,4.131,4.131,0,0,1,.917,1.588,2.961,2.961,0,0,1,.136.852V-5.565a2.968,2.968,0,0,1-.135.853,4.135,4.135,0,0,1-.917,1.589,2.957,2.957,0,0,1-.67.544l-15.531,8.985a2.95,2.95,0,0,1-.8.308A4.02,4.02,0,0,1-899.963,6.819Z" transform="translate(918.998 35.848)" fill="url(#linear-gradient-2)"/>
+    </g>
+    <path id="Path_227" data-name="Path 227" d="M-944.143-1.613V12.313l12.036,6.963,12.037-6.963V-1.613l-12-6.914Z" transform="translate(-18.375 -19.852)" fill="#fff"/>
+    <path id="Subtraction_1" data-name="Subtraction 1" d="M-900.157,25.708h0l-.048-.028V21.87l.015.008,5.362-3.1v-6.2l-5.344-3.08-.032.018v-3.8l.076-.044,8.649,4.984v10.04l-8.678,5.02Z" transform="translate(-50.301 -30.163)" fill="url(#linear-gradient-3)"/>
+    <path id="Subtraction_2" data-name="Subtraction 2" d="M-923.276,25.749h0l-8.677-5.02V10.689l8.679-4.969V9.545l-.018-.01-5.379,3.08v6.2l5.361,3.1.035-.02v3.849Z" transform="translate(-27.232 -30.204)" fill="url(#linear-gradient-4)"/>
+  </g>
+</svg>
