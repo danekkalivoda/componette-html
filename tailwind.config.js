@@ -61,6 +61,7 @@ module.exports = {
     }
   },
   variants: {
+    opacity: ['responsive', 'hover', 'group-hover'],
     textColor: ['responsive', 'hover', 'group-hover'],
     rotate: ['responsive', 'hover', 'group-hover'],
     gridRow: ['responsive', 'hover'],
