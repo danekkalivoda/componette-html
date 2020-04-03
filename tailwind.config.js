@@ -39,6 +39,12 @@ module.exports = {
         '84': '21rem',
         '96': '24rem',
         '128': '32rem',
+      },
+      minHeight: theme => ({
+        ...theme('spacing')
+      }),
+      flex: {
+        '2': '2 2 0%'
       }
     },
     fontFamily: {
