@@ -4,7 +4,7 @@
   "description": "A simple tailwind starter project with parcel",
   "scripts": {
     "dev": "npx parcel serve src/*.njk",
-    "prod": "npx parcel build src/index.njk src/detail.njk"
+    "prod": "npx parcel build src/*.njk"
   },
   "repository": "https://github.com/SantiMA10/tailwindcss-parcel-starter.git",
   "author": "Santi <santiagomartinagra@gmail.com>",
