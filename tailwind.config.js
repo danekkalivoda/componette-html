@@ -64,7 +64,55 @@ module.exports = {
     linearGradientColors: { // defaults to {}
       'blue-900-blue-700': ['#2C3B52', '#526480'],
       'transparent-teal-200': ['transparent', '#D1F6FC']
-    }
+    },
+    customForms: theme => ({
+      default: {
+        input: {
+          "&:focus": {
+            boxShadow: undefined,
+            borderColor: undefined,
+          },
+        },
+        select: {
+          "&:focus": {
+            boxShadow: undefined,
+            borderColor: undefined,
+          },
+        },
+        multiselect: {
+          "&:focus": {
+            boxShadow: undefined,
+            borderColor: undefined,
+          },
+        },
+        textarea: {
+          "&:focus": {
+            boxShadow: undefined,
+            borderColor: undefined,
+          },
+        },
+        checkbox: {
+          "&:focus": {
+            boxShadow: undefined,
+            borderColor: undefined,
+          },
+          "&:indeterminate": {
+            background: 'url("data:image/svg+xml,%3Csvg viewBox=\'0 0 16 16\' fill=\'white\' xmlns=\'http://www.w3.org/2000/svg\'%3E%3Crect width=\'8\' height=\'2\' x=\'4\' y=\'7\' rx=\'1\'/%3E%3C/svg%3E");',
+            borderColor: "transparent",
+            backgroundColor: "currentColor",
+            backgroundSize: "100% 100%",
+            backgroundPosition: "center",
+            backgroundRepeat: "no-repeat",
+          }
+        },
+        radio: {
+          "&:focus": {
+            boxShadow: undefined,
+            borderColor: undefined,
+          },
+        },
+      },
+    })
   },
   variants: {
     opacity: ['responsive', 'hover', 'group-hover'],
